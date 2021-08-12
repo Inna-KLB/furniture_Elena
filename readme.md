@@ -11,4 +11,4 @@
 - использование библиотек owlCarousel, JQuery maskedinput, Jquery Fancybox
 - адаптивная верстка
 
-## [Посмотреть сайт](https://inna-klb.github.io/furniture_Elene)
+## [Посмотреть сайт](https://inna-klb.github.io/furniture_Elene/index.html)
